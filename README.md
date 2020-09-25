@@ -1,4 +1,4 @@
-# News app GraphQl backend
+# News app GraphQL backend
 
 > Backend developed using nodejs, express, and GraphQL.
 
@@ -35,6 +35,10 @@ This project is licensed under the MIT License.
 
 #### To do list
 
-    - [ x ] initialize project
-    - [ x ] installing dependencies
-    - [ x ] epxress server setup
+- [x] Server setup
+  - [x] initialize project
+  - [x] installing dependencies
+  - [x] express setup
+- [x] Designing schema
+  - [x] Queries formation
+  - [x] Mutations
