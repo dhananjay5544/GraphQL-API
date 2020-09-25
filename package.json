@@ -1,0 +1,30 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "graphQL news app backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhananjay5544/GraphQL-API.git"
+  },
+  "author": "Dhananjay SH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhananjay5544/GraphQL-API/issues"
+  },
+  "homepage": "https://github.com/dhananjay5544/GraphQL-API#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
