@@ -40,5 +40,5 @@ This project is licensed under the MIT License.
   - [x] installing dependencies
   - [x] express setup
 - [x] Designing schema
-  - [x] Queries formation
-  - [x] Mutations
+  - [ ] Queries formation
+  - [ ] Mutations
