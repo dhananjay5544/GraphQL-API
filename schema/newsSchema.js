@@ -18,6 +18,7 @@ const newsType = new GraphQLObjectType({
     imageUrl: { type: GraphQLString },
     date: { type: GraphQLString },
     status: { type: GraphQLInt },
+    categoryId: { type: GraphQLInt },
   }),
 });
 

@@ -2,7 +2,7 @@ const express = require("express");
 const morgan = require("morgan");
 const { graphqlHTTP } = require("express-graphql");
 const cors = require("cors");
-const schema = require("./schema/schema");
+const schema = require("./schema//usersSchema");
 
 const app = express();
 
